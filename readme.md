@@ -1,4 +1,4 @@
-* Buffalo Tech Resources
+# Buffalo Tech Resources
 
 A miscellaneous collection of collections of useful or cool information.
 
