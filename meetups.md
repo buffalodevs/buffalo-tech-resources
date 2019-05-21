@@ -10,6 +10,7 @@ Feel free to submit pull requests or open issues to add or remove any meetups.
 | [Buffalo Full Stack](https://www.meetup.com/FullStackBuffalo/) | Innovation Ctr - BNMC | 9/15/18 | | |
 | [Buffalo JS](https://www.meetup.com/Buffalojs/) | Varies | 9/15/18 | | |
 | Buffalo Open Coffee | varies | 9/13/18 | [Google Group](https://groups.google.com/forum/#!forum/buffalo-opencoffee-club) | |
+| [Buffalo Kubernetes (CNCF)](https://www.meetup.com/Cloud-Native-Computing-Buffalo/) | Stark & Wayne | 4/17/19 | | | 
 | [Buffalo Software Development](https://www.meetup.com/meetup-group-MROoAqci/) | NT Public Library | 9/15/18 | | |
 | [Buffalo Startup Founder 101](https://www.meetup.com/Buffalo-Startup-Founder-101/0) | Innovation Ctr - BNMC | 9/15/18 | | |
 | [Buffalo Web Developers](https://www.meetup.com/buffalowebdevelopers/) | Varies | 3/8/19 | | |
